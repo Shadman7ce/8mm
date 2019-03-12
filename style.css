@@ -115,7 +115,7 @@ font-family:sans-serif;}
 }
 .footerLeft {
     margin: 25px 50px;
-    width: 45%;
+    width: 55%;
     float: left;
 }
 .footerLeft ul li {
@@ -129,15 +129,16 @@ font-family:sans-serif;}
 .footerLeft ul li a {
     text-decoration: none;
     color: white;
-    margin: 0px 15px;
+    margin: 0px 14px;
 }
 .footerRight {
-    width: 30%;
+    width: 25%;
     float: left;
 }
 .footerRight img {
     width: 100%;
     margin-top: 25px;
+	margin-left:10px;
 }
 .footerLeft p {
     color: white;
